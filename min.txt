@@ -1,0 +1,5 @@
+min
+max
+average
+range of salary
+average salary for gender, richest trans person
